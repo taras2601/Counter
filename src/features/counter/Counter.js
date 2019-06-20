@@ -9,5 +9,5 @@ export default class Counter extends Component {
                 <button onClick = {handleClickMinus}>{countMinus}</button>
             </div>
         );
-    }
+    };
 }
